@@ -1,32 +1,20 @@
-# Hi, I'm Hashem Alkhanaizi
+# Hashem Alkhanaizi
 
-**Full-stack developer in Bahrain, building across web, mobile, and real-time systems.**
+Web apps, real-time systems, and multiplayer experiments.
 
-My background in Network Engineering shapes how I build: I care about the interface people use, the services behind it, and the connections between them. My projects range from collaborative applications and mobile experiences to multiplayer networking and Rust simulations.
+This account brings together application projects, networking code, Rust simulations, and smaller exercises in building things from scratch.
 
-[Explore my portfolio](https://alkhanaizi.dev/) · [Connect on LinkedIn](https://www.linkedin.com/in/hashem-alkhanizi-5312822a6)
+## Repositories to explore
 
-## Selected projects
-
-| Project | What it explores | Built with |
+| Repository | Inside | Stack |
 | --- | --- | --- |
-| [Connect](https://github.com/Alkhanizi-hashem/social-network) | A collaborative social platform with profiles, communities, and real-time chat | Next.js, Go, SQLite, WebSockets |
-| [TaskFlow](https://github.com/Alkhanizi-hashem/TaskFlow) | Role-based work management with a board, timeline, and activity history | Next.js, NestJS, Prisma, PostgreSQL |
-| [Multiplayer FPS](https://github.com/Alkhanizi-hashem/multiplayer-fps) | A networked maze game with an authoritative server and client prediction | Rust, Macroquad, UDP |
-| [Smart Road](https://github.com/Alkhanizi-hashem/smart-road) | A collaborative intersection simulation with route planning and crossing reservations | Rust, SDL2 |
-| [Secure Messenger](https://github.com/Alkhanizi-hashem/secure-messenger) | Mobile messaging with QR contacts, biometric access, and encrypted one-to-one secret chats | Flutter, Firebase, X25519, AES-GCM |
-| [Clearing](https://github.com/Alkhanizi-hashem/stock-market) | A market simulator with local holdings, transaction accounting, and mock prices | React Native, Expo, SQLite, Flask |
+| [social-network](https://github.com/Alkhanizi-hashem/social-network) | Collaborative social app: feeds, groups, and live chat | Next.js · Go · WebSockets |
+| [TaskFlow](https://github.com/Alkhanizi-hashem/TaskFlow) | Work boards, role-based workflows, and activity history | Next.js · NestJS · PostgreSQL |
+| [multiplayer-fps](https://github.com/Alkhanizi-hashem/multiplayer-fps) | Authoritative game server, movement prediction, and UDP networking | Rust · Macroquad |
+| [smart-road](https://github.com/Alkhanizi-hashem/smart-road) | Collaborative intersection simulation with crossing reservations | Rust · SDL2 |
+| [localhost](https://github.com/Alkhanizi-hashem/localhost) | HTTP server with epoll, CGI, sessions, and uploads | Rust |
+| [stock-market](https://github.com/Alkhanizi-hashem/stock-market) | Mobile market simulator with holdings and transaction accounting | Expo · React Native · SQLite |
 
-## Tools I work with
+More experiments: a [JavaScript mini-framework](https://github.com/Alkhanizi-hashem/mini-framework), a [Go real-time forum](https://github.com/Alkhanizi-hashem/real-time-forum), and [Flutter messaging](https://github.com/Alkhanizi-hashem/secure-messenger).
 
-- **Languages:** TypeScript, JavaScript, Go, Rust, Dart, Python, SQL
-- **Web:** React, Next.js, Angular, NestJS, Express
-- **Mobile:** Flutter, React Native, Expo
-- **Data & communication:** PostgreSQL, SQLite, Prisma, Firebase, WebSockets, REST APIs
-
-## Education
-
-- **University of Bahrain** — B.Sc. in Network Engineering, 2022–2026
-- **Reboot01** — Full-stack and mobile development, 2024–present
-
-I enjoy making complex systems clear and useful, from the first interaction to the data moving underneath.
+[Portfolio & project demos](https://alkhanaizi.dev/) · [LinkedIn](https://www.linkedin.com/in/hashem-alkhanizi-5312822a6)
