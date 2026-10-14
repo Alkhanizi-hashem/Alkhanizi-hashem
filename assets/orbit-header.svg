@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title description">
+  <title id="title">Build. Connect. Explore.</title>
+  <desc id="description">An original charcoal and electric lime banner for Hashem's GitHub profile. A small spacecraft travels through connected orbital paths, representing web applications, real-time systems, and code experiments.</desc>
+  <defs>
+    <linearGradient id="space" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#10110f"/>
+      <stop offset="1" stop-color="#20271b"/>
+    </linearGradient>
+    <radialGradient id="halo">
+      <stop stop-color="#d4ff63" stop-opacity=".13"/>
+      <stop offset="1" stop-color="#d4ff63" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect x="1" y="1" width="1278" height="358" rx="18" fill="url(#space)" stroke="#414637" stroke-width="2"/>
+  <circle cx="1000" cy="180" r="176" fill="url(#halo)"/>
+  <g fill="#98a58a">
+    <circle cx="596" cy="42" r="1.5"/><circle cx="720" cy="74" r="1"/>
+    <circle cx="776" cy="290" r="1.5"/><circle cx="626" cy="250" r="1"/>
+    <circle cx="1172" cy="50" r="1"/><circle cx="1206" cy="305" r="1.5"/>
+    <circle cx="868" cy="28" r="1"/><circle cx="1148" cy="264" r="1"/>
+    <circle cx="695" cy="324" r="1"/><circle cx="536" cy="186" r="1"/>
+    <circle cx="831" cy="117" r="1"/><circle cx="1231" cy="148" r="1"/>
+    <circle cx="566" cy="316" r="1"/><circle cx="1120" cy="323" r="1"/>
+  </g>
+  <g font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="17" letter-spacing="2" fill="#b6c2a8">
+    <text x="54" y="46">HASHEM / GITHUB</text>
+    <text x="54" y="321" font-size="16">WEB · MOBILE · REAL-TIME</text>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="800" letter-spacing="-3">
+    <text x="49" y="126" fill="#f3f5ee">BUILD.</text>
+    <text x="49" y="205" fill="#f3f5ee">CONNECT.</text>
+    <text x="49" y="284" fill="#d4ff63">EXPLORE.</text>
+  </g>
+  <g fill="none" stroke="#d4ff63">
+    <circle cx="993" cy="180" r="128" opacity=".2"/>
+    <circle cx="993" cy="180" r="83" stroke-dasharray="2 11" opacity=".45"/>
+    <ellipse cx="993" cy="180" rx="226" ry="70" transform="rotate(-24 993 180)" opacity=".5"/>
+    <ellipse cx="993" cy="180" rx="170" ry="78" transform="rotate(35 993 180)" opacity=".25"/>
+    <path d="M646 116h81l47 64h90M680 254h63l43-45h82" opacity=".3"/>
+    <path d="M993 42v13M993 305v13M855 180h13M1118 180h13" opacity=".65"/>
+  </g>
+  <g fill="#d4ff63">
+    <circle cx="993" cy="180" r="7"/>
+    <circle cx="874" cy="133" r="5"/>
+    <circle cx="1074" cy="82" r="5"/>
+    <circle cx="1139" cy="119" r="4"/>
+    <circle cx="921" cy="288" r="4"/>
+    <circle cx="646" cy="116" r="3"/>
+    <circle cx="680" cy="254" r="3"/>
+  </g>
+  <g transform="translate(1162 222) rotate(42)">
+    <path d="M0-30C-10-19-13-4-10 9L0 16 10 9C13-4 10-19 0-30Z" fill="#d4ff63"/>
+    <path d="M-10 1-21 16-8 12M10 1 21 16 8 12" fill="#8ba344"/>
+    <circle cy="-9" r="4" fill="#10110f"/>
+    <path d="m-4 18 4 18 4-18" fill="#f3f5ee"/>
+  </g>
+  <g font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="17" letter-spacing="1" fill="#d4ff63">
+    <text x="632" y="103">&lt;/&gt;</text>
+    <text x="669" y="283">{ }</text>
+  </g>
+</svg>

@@ -1,10 +1,22 @@
+![Build. Connect. Explore. An orbital diagram in charcoal and electric lime.](assets/orbit-header.svg)
+
 # Hashem Alkhanaizi
 
-Web apps, real-time systems, and multiplayer experiments.
+I build web apps, real-time systems, and multiplayer experiments. This account is where interfaces meet APIs, packets, and simulations.
 
-This account brings together application projects, networking code, Rust simulations, and smaller exercises in building things from scratch.
+**[Portfolio & project demos →](https://alkhanaizi.dev/)** · [LinkedIn](https://www.linkedin.com/in/hashem-alkhanizi-5312822a6)
 
-## Repositories to explore
+## The stack
+
+| Layer | Technologies used in my repositories |
+| --- | --- |
+| **Languages** | TypeScript · JavaScript · Go · Rust · Dart · Python |
+| **Web** | React · Next.js · Angular · NestJS · Express |
+| **Mobile** | Flutter · React Native · Expo |
+| **Data** | PostgreSQL · SQLite · Prisma · Firebase |
+| **Real-time & systems** | WebSockets · UDP · Macroquad · SDL2 |
+
+## From interface to infrastructure
 
 | Repository | Inside | Stack |
 | --- | --- | --- |
@@ -15,6 +27,4 @@ This account brings together application projects, networking code, Rust simulat
 | [localhost](https://github.com/Alkhanizi-hashem/localhost) | HTTP server with epoll, CGI, sessions, and uploads | Rust |
 | [stock-market](https://github.com/Alkhanizi-hashem/stock-market) | Mobile market simulator with holdings and transaction accounting | Expo · React Native · SQLite |
 
-More experiments: a [JavaScript mini-framework](https://github.com/Alkhanizi-hashem/mini-framework), a [Go real-time forum](https://github.com/Alkhanizi-hashem/real-time-forum), and [Flutter messaging](https://github.com/Alkhanizi-hashem/secure-messenger).
-
-[Portfolio & project demos](https://alkhanaizi.dev/) · [LinkedIn](https://www.linkedin.com/in/hashem-alkhanizi-5312822a6)
+Also in orbit: a [JavaScript mini-framework](https://github.com/Alkhanizi-hashem/mini-framework), a [Go real-time forum](https://github.com/Alkhanizi-hashem/real-time-forum), [Flutter messaging](https://github.com/Alkhanizi-hashem/secure-messenger), and an [Angular review workflow](https://github.com/Alkhanizi-hashem/penny-frontend-assessment).
